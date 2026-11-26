@@ -225,3 +225,7 @@ __marimo__/
 data/processed/*.csv
 
 *.db
+
+~*.twbr
+*.twb
+*.twbx
